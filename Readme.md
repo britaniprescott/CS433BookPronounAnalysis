@@ -1,6 +1,6 @@
 # Data Analytics - Book Pronoun Analysis Final Project
 
-TODO
+Group project where the genders of pronouns were analyzed for two novels.
 
 ## Running The Project
 
